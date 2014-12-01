@@ -1,4 +1,4 @@
 Hello-World
 ===========
 
-Repository for an Autodidact polymath fond of a priori
+Never interupt when your opponent is making a mistake, it's rude.
